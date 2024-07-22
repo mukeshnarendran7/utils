@@ -194,3 +194,5 @@ class Bovisftp:
                         else:
                                 pass
                 return store_pths
+if __name__ == "__main__":
+    print("NA")
